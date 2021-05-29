@@ -1,0 +1,11 @@
+.containerTravelTypes {
+  ::after {
+    width: 80px;
+    height: 1000px;
+    border-bottom: 2px solid rgba(0, 0, 0, 0.5);
+    position: absolute;
+    left: 0;
+    z-index: 2;
+    bottom: 0;
+  }
+}
